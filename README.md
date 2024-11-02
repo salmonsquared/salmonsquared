@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @salmonsquared
-- 👀 I’m interested in YOUR MOM!!!
-- 🌱 I’m currently learning FUCKIN MAGIC!!!
-- 💞️ I’m looking to collaborate on A FIGHT!!!!!
-- 📫 How to reach me FUCKIN CARRIER PIDGEON!!!!
-- 😄 Pronouns: AAALLL OF THEM!!!!
-- ⚡ Fun fact: VIDEOGAMEEEEEEEEEEEEEEEEEEEEEES!!!
+Hi! My name's Jay!
+
+I'm currently studying a BSc with majors in Computer Science and Physics at Te Herenga Waka / VUW.
+
+Learn more about me at: https://vapore.online/
 
 <!---
 salmonsquared/salmonsquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
